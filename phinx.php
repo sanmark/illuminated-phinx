@@ -1,6 +1,7 @@
 <?php
 
 require 'config.php' ;
+
 return [
 	'paths' => [
 		'migrations' => 'migrations'

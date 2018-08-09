@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-eval "php vendor/bin/phinx $@ -c config-phinx.php"
