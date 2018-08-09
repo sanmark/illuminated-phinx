@@ -1,7 +1,7 @@
 {
     "name": "sanmark/illuminated-phinx",
     "description": "Run Laravel's Illuminate migrations with Phinx.",
-    "type": "library",
+    "type": "project",
     "require": {
         "sanmark/illuminated-phinx-base": "^0.1.0"
     },
